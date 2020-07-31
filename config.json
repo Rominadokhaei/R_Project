@@ -1,0 +1,21 @@
+{
+  "data_folder": {
+	
+    "name_dataset": "C:/Users/dokhaeir/Desktop/Dokhaei_Romina_Stat694_hw1/Dokhaei_Romina_Stat694_Project/data/cars.csv"
+  },
+  "var": {
+    "x_var": "speed",
+	"y_var": "dist"  
+    
+  },
+  
+  "covariate": {
+    "covariate": "False",
+    "covariate_name": "X3,X4,X5"
+  },
+  "result_folder": {
+    "name_file": "C:/Users/dokhaeir/Desktop/Dokhaei_Romina_Stat694_hw1/Dokhaei_Romina_Stat694_Project/result/reg_summary",
+	"name_pic": "C:/Users/dokhaeir/Desktop/Dokhaei_Romina_Stat694_hw1/Dokhaei_Romina_Stat694_Project/result"
+  }
+  
+}
